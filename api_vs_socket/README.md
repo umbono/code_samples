@@ -1,4 +1,4 @@
-# Same Code
+# API DEMO TEST EXAMPLE
 
 <table>
 <tr>
@@ -28,6 +28,29 @@ This is a sample API built using the FastAPI framework in Python. This is an exa
 ## Testing
 
 Tests can be run using the command pytest apitest.py
+
+# WEBSOCKET DEMO TEST EXAMPLE
+
+## SampleAPI
+
+This is a sample websocket built using the FastAPI framework in Python. This is an example of a simple websocket example.
+
+## Features
+
+This is a sample code to demonstrate the usage of WebSockets in FastAPI. The code creates a simple WebSocket endpoint at the path "/ws" and accepts incoming messages, echoes back the received message with a prefix "Message text was: ".
+
+## Usage
+
+    Clone the repository
+    Install the required packages by running pip install -r requirements.txt
+    Run the application by running python samplews.py
+
+## Requirements
+
+Python 3.7 or later
+fastapi, uvicorn
+
+### Output
 
 ## License
 
