@@ -1,0 +1,4 @@
+Memory usage: 34.078125 MB
+CPU usage: 0.0 %
+Threads: 1
+Execution time: 1.9141440391540527 seconds

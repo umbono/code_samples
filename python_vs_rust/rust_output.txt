@@ -1,0 +1,16 @@
+Thread ID: 4
+Execution time: 66.72872ms
+Thread ID: 6
+Execution time: 66.931319ms
+Thread ID: 5
+Execution time: 68.762235ms
+Thread ID: 3
+Execution time: 68.836519ms
+Thread ID: 7
+Execution time: 68.795255ms
+Thread ID: 2
+Execution time: 69.279416ms
+Thread ID: 1
+Execution time: 69.868335ms
+Thread ID: 0
+Execution time: 70.052262ms
